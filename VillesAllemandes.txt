@@ -1,4 +1,3 @@
-#http://www.citypopulation.de/en/germany/ >50 000 hab
 Name	Status	Adm	p1987	p1995	p2001	p2011	p2020
 Aachen [Aix-la-Chapelle]	City	NW	229740	247923	245778	236420	248878
 Aalen	City	BW	62633	66234	66559	66318	68361
